@@ -1,5 +1,5 @@
-# NeuralNets
-Сверточная нейронная сеть, обученная на датасете MNIST
-Имеет возможности смены архитектуры(Conv2D, MaxPooling2D и Dense слои с различными функциями активации, из ReLu, sigmoid или Softmax). Однако Softmax работает только на последнем слое.
+### NeuralNets
+A convolutional neural network trained on the MNIST dataset.  
+It features the ability to change the architecture (Conv2D, MaxPooling2D, and Dense layers with various activation functions, including ReLU, sigmoid, or Softmax). However, Softmax is used only on the final layer.  
 
-Средняя accuracy на тествых данных находится около 0.9.
+The average accuracy on test data is around 0.9.
